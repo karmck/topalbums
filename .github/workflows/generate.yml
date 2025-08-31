@@ -33,12 +33,9 @@ jobs:
           echo "Generating albums for year ${{ github.event.inputs.year }}"
           node fetch-json.js ${{ github.event.inputs.year }}
 
-      # 5️⃣ Upload to GitHub Pages artifact
-      - name: Upload artifact for GH Pages
-        uses: actions/upload-pages-artifact@v1
+      # 5️⃣ Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: github-pages/deploy-pages@v1
         with:
-          path: ./docs
-
-      # 6️⃣ Deploy Pages
-      - name: Deploy Pages
-        uses: actions/deploy-pages@v1
+          branch: gh-pages
+          folder: docs
