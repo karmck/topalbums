@@ -31,7 +31,7 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: |
           echo "Generating albums for year ${{ github.event.inputs.year }}"
-          node fetch-json.js ${{ github.event.inputs.year }}
+          node fetch-covers.js ${{ github.event.inputs.year }}
 
       # 5️⃣ Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
