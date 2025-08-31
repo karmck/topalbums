@@ -37,8 +37,9 @@ jobs:
           echo "Generating albums for year ${{ github.event.inputs.year }}"
           node fetch-covers.js ${{ github.event.inputs.year }}
 
-      - name: Deploy to GH Pages
-            uses: peaceiris/actions-gh-pages@v7
-            with:
-              github_token: ${{ secrets.GITHUB_TOKEN }}
-              publish_dir: ./docs
+      # 5️⃣ Commit and push changes to docs/
+      - name: Commit and push
+        uses: peaceiris/actions-gh-pages@v7
+                with:
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+                  publish_dir: ./docs
