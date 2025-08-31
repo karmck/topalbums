@@ -35,12 +35,12 @@ jobs:
 
       # 5️⃣ Deploy docs/ to GH-Pages
       - name: Deploy to GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./docs
 
       - name: Publish to GitHub Pages
-        uses: actions/github-pages-deploy-action@v1
+        uses: actions/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: docs
