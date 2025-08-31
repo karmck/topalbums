@@ -32,9 +32,3 @@ jobs:
         run: |
           echo "Generating albums for year ${{ github.event.inputs.year }}"
           node fetch-covers.js ${{ github.event.inputs.year }}
-
-      # 5️⃣ Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: docs
