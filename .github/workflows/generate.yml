@@ -27,6 +27,9 @@ jobs:
 
       # 4️⃣ Run your generation script
       - name: Generate JSON and update index
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: |
           echo "Generating albums for year ${{ github.event.inputs.year }}"
           node fetch-covers.js ${{ github.event.inputs.year }}

@@ -3,13 +3,19 @@ import path from "path";
 import fetch from "node-fetch";
 import dotenv from "dotenv";
 
-dotenv.config();
+// Load .env only if it exists (local development)
+try {
+  import('dotenv').then(dotenv => dotenv.config());
+} catch (e) {
+  // dotenv not needed on GitHub Actions
+}
 
+// Read credentials from environment variables
 const CLIENT_ID = process.env.SPOTIFY_CLIENT_ID;
 const CLIENT_SECRET = process.env.SPOTIFY_CLIENT_SECRET;
 
 if (!CLIENT_ID || !CLIENT_SECRET) {
-  console.error("Missing Spotify credentials in .env");
+  console.error("Missing Spotify credentials in environment variables");
   process.exit(1);
 }
 
