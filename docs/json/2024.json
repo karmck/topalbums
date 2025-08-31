@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Magda",
+    "artist": "Donato Dozzy",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cf5f1f145a7407d53a4cf0fd",
+    "url": "https://open.spotify.com/album/5VDhlo398SCiqC5XSoPUDl"
+  },
+  {
+    "name": "90's Video Game Sounds",
+    "artist": "Top$ide",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730e271b9352b88974c7111291",
+    "url": "https://open.spotify.com/album/19XyKGTsLI7VMes7AIyayV"
+  },
+  {
+    "name": "Infinite Tetraspace",
+    "artist": "Dopplereffekt",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f94e90dfecd9972f40f87770",
+    "url": "https://open.spotify.com/album/2OX1yWwJ6jA2kildG4su12"
+  },
+  {
+    "name": "Forever",
+    "artist": "Attom",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733b0c7fef547913d7778138e3",
+    "url": "https://open.spotify.com/album/4E54IOC2UZK6qrDODDnYXJ"
+  },
+  {
+    "name": "The Endless Echo",
+    "artist": "Pye Corner Audio",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736952918be2190d6e65da6ef1",
+    "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
+  },
+  {
+    "name": "A LA SALA",
+    "artist": "Khruangbin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730aaf76a18898d0b63a9ff455",
+    "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+  },
+  {
+    "name": "Slow Burn",
+    "artist": "Baby Rose, BADBADNOTGOOD",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273940ad8d7580e7baf57851098",
+    "url": "https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb"
+  },
+  {
+    "name": "Umbel",
+    "artist": "Loscil",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737553feee380e4e41002f13d1",
+    "url": "https://open.spotify.com/album/3MvZG0lXL6sXmtauKfVV77"
+  },
+  {
+    "name": "Disconnect",
+    "artist": "KMRU, Kevin Richard Martin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a3e42dee042230369bb8085f",
+    "url": "https://open.spotify.com/album/55qudCXxebyy45R7JAoAnX"
+  },
+  {
+    "name": "Sekvenser: Krysolitt",
+    "artist": "Pjusk",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c8172731fecc3fb8b71a5968",
+    "url": "https://open.spotify.com/album/0RYEz7Nxly4wMaOuYdw4iF"
+  },
+  {
+    "name": "Birds & Beasts",
+    "artist": "SUSS",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730d25a414dc12a37962079a34",
+    "url": "https://open.spotify.com/album/74FpX2nwI2LRt4O8cyfo2p"
+  },
+  {
+    "name": "Mayhem In Minneapolis EP",
+    "artist": "Gunjack",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27335e6580897d565d04cfe8b5e",
+    "url": "https://open.spotify.com/album/4mtVWZT5pmwzh5tr6StGon"
+  },
+  {
+    "name": "Retrace",
+    "artist": "Sub Basics",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273650e71e5408a47a476663a0f",
+    "url": "https://open.spotify.com/album/0SB1ySFmFseFAQfV6EirJu"
+  },
+  {
+    "name": "Infinite Light",
+    "artist": "Not Waving, Romance",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27362affba75d2f9775449c133c",
+    "url": "https://open.spotify.com/album/7b2PVXILUaPJEiGo3uFEjt"
+  },
+  {
+    "name": "Totally Bad Boys Blue",
+    "artist": "Bad Boys Blue",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e1ba84936dc121d3742a7a17",
+    "url": "https://open.spotify.com/album/4cavPiDFAFdHX6ZATZRkYU"
+  },
+  {
+    "name": "Floodplain",
+    "artist": "Artefakt",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d56c250d8b014ad5ca382b41",
+    "url": "https://open.spotify.com/album/2zt72dBh5AAjZaL7L6PvK9"
+  },
+  {
+    "name": "Everything Squared",
+    "artist": "Seefeel",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27319b76cf4769219e3c260eb9a",
+    "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+  },
+  {
+    "name": "Machine",
+    "artist": "The Bug",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732bd2e9f9d0df1fe24cf8f4ca",
+    "url": "https://open.spotify.com/album/2mo3lhfCOg5TVJjh6HSzMd"
+  },
+  {
+    "name": "Wisdom in the Roots",
+    "artist": "Hang Massive",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733fcdfff11509b210446ae8d4",
+    "url": "https://open.spotify.com/album/09l3JQRM8Zy6JQj5onbWjr"
+  },
+  {
+    "name": "THE UNIVERSAL ENERGY PRAYER",
+    "artist": "WILDLIFE RELAX",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273314a88e9221bac785525d37c",
+    "url": "https://open.spotify.com/album/4cYp1IybkSGG6p1drBxhet"
+  },
+  {
+    "name": "Studio",
+    "artist": "Monolake",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273067abdb103a3be28a90d1c4d",
+    "url": "https://open.spotify.com/album/7mLfmUAKl43TlGZ87g5jCX"
+  },
+  {
+    "name": "Ethos",
+    "artist": "Frank & Tony",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27335a5bb639eb65330289be384",
+    "url": "https://open.spotify.com/album/1rbE5cUc4e14Dksnif7dDc"
+  },
+  {
+    "name": "The Sentient City Awakens",
+    "artist": "Plant43",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bac975c11bfb7bdfaf248363",
+    "url": "https://open.spotify.com/album/3WSznLYVrY9nUsNpXfBSW1"
+  },
+  {
+    "name": "Reverberations of Non-Stop Traffic on Redding Road",
+    "artist": "Pan-American, Kramer",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732043b3515073a64390d07888",
+    "url": "https://open.spotify.com/album/6NrBsFaejrdAhyPWn9oU6t"
+  },
+  {
+    "name": "Disasterpiece",
+    "artist": "TroubleMent",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273116156e3b35c2bcdc531825d",
+    "url": "https://open.spotify.com/album/6vuiE0xg0oNz6iRgqiGX7j"
+  },
+  {
+    "name": "Polaris",
+    "artist": "One Million Eyes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273423ff02d4ee45301cbbfa9b9",
+    "url": "https://open.spotify.com/album/1p32z15aAwYN4CzNPmM1Au"
+  },
+  {
+    "name": "You Never End",
+    "artist": "Moin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273822a502e7f27dcd6eb8d6c4d",
+    "url": "https://open.spotify.com/album/06IJJi2iZOfJvHWFM8lRI9"
+  },
+  {
+    "name": "Virtual Dreams II - Ambient Explorations In The House & Techno Age, Japan 1993-1999",
+    "artist": "Various Artists",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739da61ed53eac73229a85dba3",
+    "url": "https://open.spotify.com/album/47QH9uMKRjEbbAyjpOPJe3"
+  },
+  {
+    "name": "Sun Glories",
+    "artist": "Chuck Johnson",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c3d68afd652580e102e8e1f7",
+    "url": "https://open.spotify.com/album/6HlX5NVp35YB0WzAwPNDVr"
+  },
+  {
+    "name": "Above the City",
+    "artist": "Fred P",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733d77975d7b2bc34c2c225182",
+    "url": "https://open.spotify.com/album/6zNdJXoAN9brsqFo5kc5Xq"
+  },
+  {
+    "name": "Recollection",
+    "artist": "Earthen Sea",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bce4b6908d72077f19ffa20e",
+    "url": "https://open.spotify.com/album/3hdc67MdkIZZ5veAUwe1lP"
+  },
+  {
+    "name": "Twin Color, Vol. 1",
+    "artist": "Murcof",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27335120dea5cab596ef7a09f56",
+    "url": "https://open.spotify.com/album/1H8oLIUoU8Fq3yGBpZWp9Y"
+  },
+  {
+    "name": "Mosaic",
+    "artist": "Fennesz",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f934fff78c44d6b066806e5a",
+    "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
+  },
+  {
+    "name": "A Quiet Day",
+    "artist": "The Balloonist",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d838ea521924993e602a1e5",
+    "url": "https://open.spotify.com/album/6sakcVgWVDKB7iS195bcii"
+  },
+  {
+    "name": "For Forever",
+    "artist": "Hollie Kenniff",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27343739b24f7da3f21d2db9498",
+    "url": "https://open.spotify.com/album/3bhVUpzPdQBLrRewQE3i9f"
+  },
+  {
+    "name": "Plasticene",
+    "artist": "Wound",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733f178d44cf0ec84e81b56968",
+    "url": "https://open.spotify.com/album/5LaIOPiFEEn9xtXJpK0J8u"
+  },
+  {
+    "name": "Nebulous Nights - An Ambient Excursion into Profound Mysteries",
+    "artist": "Röyksopp",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27340b850ae22734c84bcc68373",
+    "url": "https://open.spotify.com/album/2eURiJZ78LAnjGMdxG0XG1"
+  },
+  {
+    "name": "This but More",
+    "artist": "Priori",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739869d21c60dcc5eb48db2b8b",
+    "url": "https://open.spotify.com/album/5WlpApeyJSlJ5Lu5wLZVMz"
+  },
+  {
+    "name": "Squared Roots",
+    "artist": "Seefeel",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27361a3a29654330070035ed4c1",
+    "url": "https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4"
+  },
+  {
+    "name": "Dive",
+    "artist": "Faux Tapes",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273efdc3f711104d4743efafcf9",
+    "url": "https://open.spotify.com/album/1YttaFUn2Xokc8B9nxWxXA"
+  },
+  {
+    "name": "Music From The Merch Desk (2016 - 2023)",
+    "artist": "Aphex Twin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273654c638796d5eb9b53c1bad8",
+    "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+  },
+  {
+    "name": "Spirit Box",
+    "artist": "Flying Lotus",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734895e3c4a6f0c78ba12dc7f8",
+    "url": "https://open.spotify.com/album/2E0PfJRClRUJps8edfgJja"
+  },
+  {
+    "name": "Three",
+    "artist": "Four Tet",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731cbbdaaa1d4b3bca2272f31c",
+    "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+  },
+  {
+    "name": "All good?",
+    "artist": "Nonkeen",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27391ee478e77656d017787ed3e",
+    "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+  },
+  {
+    "name": "Discipline",
+    "artist": "Shinichi Atobe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735db542c7c13206b4951bb971",
+    "url": "https://open.spotify.com/album/2QYPxdmRNYjXXmqjHxWv5p"
+  },
+  {
+    "name": "Middle Of Nowhere",
+    "artist": "X.Y.R.",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735f2ae8ee8dd49f78d502137a",
+    "url": "https://open.spotify.com/album/5i0fnNXAwjk8YyqQAXm5Zy"
+  },
+  {
+    "name": "Xerrox, Vol.5",
+    "artist": "alva noto",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305751af2a560273df34a11a3",
+    "url": "https://open.spotify.com/album/0nXbVpD63ylK8ZfrdELwlb"
+  },
+  {
+    "name": "Mirage",
+    "artist": "Brendon Moeller",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273388825cdc41284afdb7a70cc",
+    "url": "https://open.spotify.com/album/6hW3AQo69Kj9a99xQ5gdTd"
+  },
+  {
+    "name": "Eleven Fugues For Sodium Pentothal",
+    "artist": "Adam Wiltzie",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736d5105e48f7d14b394f06fb0",
+    "url": "https://open.spotify.com/album/0Y88Eg4EbumVR08gZSEG5A"
+  },
+  {
+    "name": "Homage to Ryuichi Sakamoto",
+    "artist": "Helena Basilova",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b3f77367314002e0059dddb3",
+    "url": "https://open.spotify.com/album/3MhMdPqT1NIGByc69LCZTM"
+  },
+  {
+    "name": "In uno spazio immenso",
+    "artist": "Grand River, Abul Mogard",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b405d76ded8da752ac8443ee",
+    "url": "https://open.spotify.com/album/1Bnc5uWLTOdowuKE42KMSi"
+  },
+  {
+    "name": "Diverse Pathways",
+    "artist": "ReKaB",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273612d9dd460177839ca0879dd",
+    "url": "https://open.spotify.com/album/44CavVdPYy1ZHadcf3crBx"
+  },
+  {
+    "name": "LAYER ONE",
+    "artist": "Ben Klock, Fadi Mohem",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ca59f9829d3d9fba652b3ba5",
+    "url": "https://open.spotify.com/album/6BdjHHJCpf06fR727JzaQi"
+  },
+  {
+    "name": "Music From The Merch Desk (2016 - 2023)",
+    "artist": "Aphex Twin",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273654c638796d5eb9b53c1bad8",
+    "url": "https://open.spotify.com/album/72pxRHG1VNIcIibziKpH03"
+  },
+  {
+    "name": "A Quiet Day",
+    "artist": "The Balloonist",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d838ea521924993e602a1e5",
+    "url": "https://open.spotify.com/album/6sakcVgWVDKB7iS195bcii"
+  },
+  {
+    "name": "Mirage",
+    "artist": "Brendon Moeller",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273388825cdc41284afdb7a70cc",
+    "url": "https://open.spotify.com/album/6hW3AQo69Kj9a99xQ5gdTd"
+  }
+]
