@@ -1,0 +1,12 @@
+{
+  "name": "my-albums",
+  "type": "module",
+  "scripts": {
+    "start": "node fetch-covers.js",
+    "serve": "npx http-server docs -p 3000"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^2.6.7"
+  }
+}
