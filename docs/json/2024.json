@@ -84,12 +84,6 @@
     "url": "https://open.spotify.com/album/7b2PVXILUaPJEiGo3uFEjt"
   },
   {
-    "name": "Totally Bad Boys Blue",
-    "artist": "Bad Boys Blue",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273e1ba84936dc121d3742a7a17",
-    "url": "https://open.spotify.com/album/4cavPiDFAFdHX6ZATZRkYU"
-  },
-  {
     "name": "Floodplain",
     "artist": "Artefakt",
     "cover": "https://i.scdn.co/image/ab67616d0000b273d56c250d8b014ad5ca382b41",
@@ -114,12 +108,6 @@
     "url": "https://open.spotify.com/album/09l3JQRM8Zy6JQj5onbWjr"
   },
   {
-    "name": "THE UNIVERSAL ENERGY PRAYER",
-    "artist": "WILDLIFE RELAX",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273314a88e9221bac785525d37c",
-    "url": "https://open.spotify.com/album/4cYp1IybkSGG6p1drBxhet"
-  },
-  {
     "name": "Studio",
     "artist": "Monolake",
     "cover": "https://i.scdn.co/image/ab67616d0000b273067abdb103a3be28a90d1c4d",
@@ -142,12 +130,6 @@
     "artist": "Pan-American, Kramer",
     "cover": "https://i.scdn.co/image/ab67616d0000b2732043b3515073a64390d07888",
     "url": "https://open.spotify.com/album/6NrBsFaejrdAhyPWn9oU6t"
-  },
-  {
-    "name": "Disasterpiece",
-    "artist": "TroubleMent",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273116156e3b35c2bcdc531825d",
-    "url": "https://open.spotify.com/album/6vuiE0xg0oNz6iRgqiGX7j"
   },
   {
     "name": "Polaris",
@@ -198,10 +180,10 @@
     "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
   },
   {
-    "name": "Balloons",
-    "artist": "Quiet Time",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ebcba35b0ee24674c96da418",
-    "url": "https://open.spotify.com/album/7oHK5l24gX7zvM2iCloVRh"
+    "name": "A Quiet Day",
+    "artist": "The Balloonist",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738d838ea521924993e602a1e5",
+    "url": "https://open.spotify.com/album/6sakcVgWVDKB7iS195bcii"
   },
   {
     "name": "For Forever",
@@ -316,17 +298,5 @@
     "artist": "Ben Klock, Fadi Mohem",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ca59f9829d3d9fba652b3ba5",
     "url": "https://open.spotify.com/album/6BdjHHJCpf06fR727JzaQi"
-  },
-  {
-    "name": "A Quiet Day",
-    "artist": "The Balloonist",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738d838ea521924993e602a1e5",
-    "url": "https://open.spotify.com/album/6sakcVgWVDKB7iS195bcii"
-  },
-  {
-    "name": "Mirage",
-    "artist": "Brendon Moeller",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273388825cdc41284afdb7a70cc",
-    "url": "https://open.spotify.com/album/6hW3AQo69Kj9a99xQ5gdTd"
   }
 ]

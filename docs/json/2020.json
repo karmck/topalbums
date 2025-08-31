@@ -1,27 +1,9 @@
 [
   {
-    "name": "JUNE",
-    "artist": "JJ47, Jokhay",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273980adddded9cfe8740cad53b",
-    "url": "https://open.spotify.com/album/3btS01OpmcPDBxLZVesaPt"
-  },
-  {
     "name": "Play Flights",
     "artist": "Mason Bee",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ca6a73d7881126cb70be7572",
     "url": "https://open.spotify.com/album/6xoPHDPPHgE6uo5L9Jq7P3"
-  },
-  {
-    "name": "Psycho Dreams (Sped Up)",
-    "artist": "Kill Eva, ENCASSATOR",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c6e1107184d3b55ed3f03248",
-    "url": "https://open.spotify.com/album/37mwjcyGBEk4D3BGL0MKfO"
-  },
-  {
-    "name": "Sick Universe Demands Sharing",
-    "artist": "SUDS",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a5addfc706cef080eed8aa25",
-    "url": "https://open.spotify.com/album/7LyLnX3zmhUtuPcKQZJkXQ"
   },
   {
     "name": "Swirlings",
@@ -234,12 +216,6 @@
     "url": "https://open.spotify.com/album/4FY9G3jGXs5mZgijFkOXCm"
   },
   {
-    "name": "Echoes of the Void",
-    "artist": "sklamp",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734ce31e0cf710b06eec284e73",
-    "url": "https://open.spotify.com/album/4HhJDTYw6lCcdmfrKGNybw"
-  },
-  {
     "name": "Natthall",
     "artist": "Sebastian Mullaert, Tonhalle-Orchester Zürich",
     "cover": "https://i.scdn.co/image/ab67616d0000b2735375ab34474c07a465e1e405",
@@ -276,16 +252,10 @@
     "url": "https://open.spotify.com/album/2qA5yOiERUs21jrwRJXKFp"
   },
   {
-    "name": "Virtual Dreams II - Ambient Explorations In The House & Techno Age, Japan 1993-1999",
+    "name": "Virtual Dreams: Ambient Explorations In The House & Techno Age, 1993-1997",
     "artist": "Various Artists",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739da61ed53eac73229a85dba3",
-    "url": "https://open.spotify.com/album/47QH9uMKRjEbbAyjpOPJe3"
-  },
-  {
-    "name": "Yukiko",
-    "artist": "Koodo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fd5bf1cfb613c7ff9f90a59b",
-    "url": "https://open.spotify.com/album/253y5WoZsjMkucN6CI2m2j"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a341ca535bd2578e15bd5f7a",
+    "url": "https://open.spotify.com/album/11GgRVmpjBJNVRPjNPQQTQ"
   },
   {
     "name": "Parallel Space EP",
@@ -318,16 +288,16 @@
     "url": "https://open.spotify.com/album/28K15xgaACIyyqiVAtuNyp"
   },
   {
-    "name": "The Enchanted Veil",
-    "artist": "VLAB",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2734d72b4ec98bebed85d140fb9",
-    "url": "https://open.spotify.com/album/0gGIxZMQ5kxWmG7ILBfMjd"
+    "name": "Black Moon",
+    "artist": "Valium Aggelein",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739d54300c942eed776398fff6",
+    "url": "https://open.spotify.com/album/13wXdYJA77QJCbsSZeRpEm"
   },
   {
-    "name": ".Vril & Rødhåd Present Out Of Place Artefacts - II",
+    "name": "Vril & Rødhåd Presents Out Of Place Artefacts",
     "artist": "Out Of Place Artefacts, Vril, Rødhåd",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737c695977e7e39ae4d81768df",
-    "url": "https://open.spotify.com/album/5bcCyKpTidTG4wh4vUBvnx"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273196880dbacf2eba7ed478d22",
+    "url": "https://open.spotify.com/album/1gv5VPMpstJehTJ8gEPK3M"
   },
   {
     "name": "Cascade 2020",

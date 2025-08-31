@@ -26,8 +26,6 @@ Sub Basics - Retrace
 
 Not Waving - Infinite Light
 
-Total Blue - Total Blue
-
 Artefakt - Floodplain
 
 Seefeel - Everything Squared
@@ -36,8 +34,6 @@ The Bug - Machine
 
 Hang Massive - Wisdom in the roots
 
-Wooldand Meditation - III
-
 Monolake - Studio
 
 Frank & Tony - Ethos
@@ -45,8 +41,6 @@ Frank & Tony - Ethos
 Plant43 - The Sentient City Awakens
 
 Pan American - Reverberations
-
-Disasterpiece - Standstill
 
 One Million Eyes - Polaris
 
@@ -64,7 +58,7 @@ Murcof - Twin Color Vol 1
 
 Fennesz - Mosaic
 
-The Balloonisst - A Quiet Day
+The Balloonist - A Quiet Day
 
 Hollie Kenniff - For Forever
 
@@ -103,7 +97,3 @@ Grand River & Abul Mogard - In uno spazio immenso
 ReKab - Diverse Pathways
 
 Ben Klock - Layer One
-
-The Balloonist - A Quiet Day
-
-Brendon Moeller - Mirage
