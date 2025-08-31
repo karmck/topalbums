@@ -35,7 +35,8 @@ jobs:
 
       # 5️⃣ Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: github-pages/deploy-pages@v1
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: docs
+          token: ${{ secrets.GITHUB_TOKEN }}
