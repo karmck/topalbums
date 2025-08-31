@@ -4,10 +4,9 @@ import fetch from "node-fetch";
 import dotenv from "dotenv";
 
 // Load .env only if it exists (local development)
-try {
-  import('dotenv').then(dotenv => dotenv.config());
-} catch (e) {
-  // dotenv not needed on GitHub Actions
+const envPath = path.resolve(process.cwd(), ".env");
+if (fs.existsSync(envPath)) {
+  dotenv.config({ path: envPath });
 }
 
 // Read credentials from environment variables
