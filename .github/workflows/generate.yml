@@ -39,4 +39,4 @@ jobs:
         with:
           branch: gh-pages
           folder: docs
-          token: ${{ secrets.PAT_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
