@@ -1,45 +1,41 @@
-name: Generate Albums
+name: Generate Albums and Deploy GH-Pages
 
 on:
   workflow_dispatch:
     inputs:
       year:
-        description: 'Year to regenerate'
+        description: 'Year to generate'
         required: true
         default: '2025'
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       # 1️⃣ Checkout the repo
       - uses: actions/checkout@v3
-        with:
-          persist-credentials: false  # important to allow using custom token
 
-
-      # 2️⃣ Setup Node
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      # 2️⃣ Setup Node.js
+      - uses: actions/setup-node@v3
         with:
           node-version: 20
 
-      # 3️⃣ Install dependencies (if any)
-      - name: Install dependencies
-        run: npm ci
+      # 3️⃣ Install dependencies
+      - run: npm ci
 
-      # 4️⃣ Run your generation script
-      - name: Generate JSON and update index
+      # 4️⃣ Run your script to generate JSON/index.html for the specified year
+      - name: Generate JSON and index
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: |
           echo "Generating albums for year ${{ github.event.inputs.year }}"
-          node fetch-covers.js ${{ github.event.inputs.year }}
+          node fetch-json.js ${{ github.event.inputs.year }}
 
-      # 5️⃣ Commit and push changes to docs/
-      - name: Commit and push
+      # 5️⃣ Deploy docs/ to GH-Pages
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v7
-                with:
-                  github_token: ${{ secrets.GITHUB_TOKEN }}
-                  publish_dir: ./docs
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
