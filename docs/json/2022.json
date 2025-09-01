@@ -116,8 +116,8 @@
   {
     "name": "Aquarealm",
     "artist": "X.Y.R.",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27306e13404ac29e8ae16529fcb",
-    "url": "https://open.spotify.com/album/5lb8k3A7i5h38XOLRJDWk1"
+    "cover": "https://i.scdn.co/image/ab67616d0000b27305dddf748a8c0383c811fbb3",
+    "url": "https://open.spotify.com/album/2b2NKMGXqjTtRkHQVXjkBS"
   },
   {
     "name": "Chain Reaction EP",
@@ -150,10 +150,10 @@
     "url": "https://open.spotify.com/album/53VgkRoJgtIKjXTFqpc8gR"
   },
   {
-    "name": "Stasis Sounds For Long-Distance Space Travel III",
+    "name": "Stasis Sounds for Long-Distance Space Travel II",
     "artist": "36, zakè",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a07238699f77dfa7249393ae",
-    "url": "https://open.spotify.com/album/5vVJ7EsPqlgUmL4N9k6eIE"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a4e75c092401de9610fcf96c",
+    "url": "https://open.spotify.com/album/5dQpKQxQ0cg6RElRogp7Wr"
   },
   {
     "name": "Colours In The Dark",
@@ -182,8 +182,8 @@
   {
     "name": "Tempus",
     "artist": "Pole",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731c991cc4adc41fb00973d11c",
-    "url": "https://open.spotify.com/album/5e013rHqMUmB31qACTkO7Q"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739e3efbfcf22088a4e2da2865",
+    "url": "https://open.spotify.com/album/2cq6vTpNKi4LJFXAwlwckm"
   },
   {
     "name": ".Vril & Rødhåd Present Out Of Place Artefacts - II",
@@ -194,8 +194,8 @@
   {
     "name": "Ultra Truth",
     "artist": "Daniel Avery",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27371e52b9aa4fc9ff81eba07f7",
-    "url": "https://open.spotify.com/album/5M6dgtsmCnatYzHCHVOAYX"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273291d59ec963489ae543375eb",
+    "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
   },
   {
     "name": "Functional Designs",
@@ -222,10 +222,10 @@
     "url": "https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz"
   },
   {
-    "name": "The Red Hunter (Remixes)",
+    "name": "The Red Hunter",
     "artist": "Steffi",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2735c1007902bfaf0feabeab179",
-    "url": "https://open.spotify.com/album/28fQVioEcoutFB0aQqWf43"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734e44e1c2c7f2c1a5e28665b8",
+    "url": "https://open.spotify.com/album/1qk3XHpPvWIxVedZJ7o2vK"
   },
   {
     "name": "Substrata [Alternative Versions]",
@@ -242,8 +242,8 @@
   {
     "name": "Vahiné",
     "artist": "Gigi Masin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a3cd1511988571a92cd4cb70",
-    "url": "https://open.spotify.com/album/4lp2wX3dV4BYoChzAdqgHy"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a98b28a77e831959ec6fd618",
+    "url": "https://open.spotify.com/album/6FVf1hxUXKyJW8NHBaT2pd"
   },
   {
     "name": "05-10",
@@ -274,5 +274,11 @@
     "artist": "Blood Incantation",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736b93d6a6480b2b3b1a422e3d",
     "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
+  },
+  {
+    "name": "fabric presents Leon Vynehall (Mixed)",
+    "artist": "Leon Vynehall",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dee044222fd034884e2c7f8c",
+    "url": "https://open.spotify.com/album/63xWnZRphzbWrZL4PN9KIP"
   }
 ]
