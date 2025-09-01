@@ -3,18 +3,26 @@ name: Generate Albums and Deploy GH-Pages
 on:
   workflow_dispatch:
     inputs:
-      year:
-        description: 'Year to generate'
+      years:
+        description: 'Comma-separated list of years to generate (e.g. 2020,2021)'
         required: true
         default: '2025'
+
+  push:
+    branches:
+      - master
+    paths:
+      - "albums/*.txt"
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo
+      # 1️⃣ Checkout the repo with full history (needed for git diff)
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       # 2️⃣ Setup Node.js
       - uses: actions/setup-node@v3
@@ -24,22 +32,41 @@ jobs:
       # 3️⃣ Install dependencies
       - run: npm ci
 
-      # 4️⃣ Run your script to generate JSON/index.html for the specified year
+      # 4️⃣ Determine years to build
+      - name: Set YEARS variable
+        id: set-years
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "years=${{ github.event.inputs.years }}" >> $GITHUB_OUTPUT
+          else
+            YEARS=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} \
+              | grep '^albums/' \
+              | sed -E 's|albums/([0-9]+)\.txt|\1|' \
+              | sort -u \
+              | paste -sd "," -)
+            echo "years=$YEARS" >> $GITHUB_OUTPUT
+          fi
+
+      # 5️⃣ Run your script for each year
       - name: Generate JSON and index
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         run: |
-          echo "Generating albums for year ${{ github.event.inputs.year }}"
-          node fetch-covers.js ${{ github.event.inputs.year }}
+          echo "Generating albums for years: ${{ steps.set-years.outputs.years }}"
+          for YEAR in $(echo "${{ steps.set-years.outputs.years }}" | tr "," " "); do
+            node fetch-covers.js "$YEAR"
+          done
 
+      # 6️⃣ Commit changes
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update and publish" || echo "No changes to commit"
+          git commit -m "Update and publish for years ${{ steps.set-years.outputs.years }}" || echo "No changes to commit"
 
+      # 7️⃣ Push changes back to master
       - name: Push changes
         run: |
           git push origin master
