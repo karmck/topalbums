@@ -164,7 +164,7 @@
               albums.map(a => `
           <div class="album">
             <a href="${a.url}" target="_blank" rel="noopener noreferrer">
-              <img src="${a.cover}" alt="${a.artist} - ${a.name}">
+              <img src="${a.cover}" alt="${a.artist} - ${a.name}" loading="lazy">
               <span><strong>${a.artist}</strong> <br/> ${a.name}</span>
             </a>
           </div>`).join("") + `</div>`;
