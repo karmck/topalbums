@@ -52,7 +52,8 @@ jobs:
         run: |
           echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" | sed 's/\\n/\n/g' > topalbums-service-account.json
 
-
+      - name: Check generated service account
+        run: cat topalbums-service-account.json
 
       # Run your script for each year
       - name: Generate JSON and index
