@@ -50,7 +50,8 @@ jobs:
       # Generate the service-account file from the repo secret
       - name: Setup Google Service Account
         run: |
-          echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" > topalbums-service-account.json
+          echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" | sed 's/\\n/\n/g' > topalbums-service-account.json
+
 
 
       # Run your script for each year
