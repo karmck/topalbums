@@ -78,10 +78,10 @@
     "url": "https://open.spotify.com/album/2diDpno1K39g7HtGkPWiTe"
   },
   {
-    "name": "Seafire",
+    "name": "Seafire (Special Edition)",
     "artist": "Bochum Welt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27349fbc51eda51ceb95b7e3c47",
-    "url": "https://open.spotify.com/album/31qrULisuAx3WiJpnnevPL"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2738e34f785063eca94f96241af",
+    "url": "https://open.spotify.com/album/45nW3VGjVCNlvWA3tkFdji"
   },
   {
     "name": "Long Cool World",
@@ -90,10 +90,10 @@
     "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
   },
   {
-    "name": "Serendipia Remixed",
+    "name": "Serendipia",
     "artist": "John Beltran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27369d27bac315f9ffdfe10878c",
-    "url": "https://open.spotify.com/album/2u4zaVU9373sDhNakWlCb6"
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376a19ba17097dd7e6f3c3b04",
+    "url": "https://open.spotify.com/album/0A47LlbIGtx0ahBCmz0kZ5"
   },
   {
     "name": "LUSTWERK II",
@@ -128,8 +128,8 @@
   {
     "name": "Blackbox Life Recorder 21f / in a room7 F760",
     "artist": "Aphex Twin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273386e8fa345ed10cc5305d101",
-    "url": "https://open.spotify.com/album/6Roy2uPdfseTq8BWeIz2Ta"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cac3de4f526a0f3339de0664",
+    "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
   },
   {
     "name": "Journey Test",
@@ -220,17 +220,5 @@
     "artist": "VC-118A",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ecf6ca1343df677aa589828a",
     "url": "https://open.spotify.com/album/0BbRkHcvLWUn9llieX3Ket"
-  },
-  {
-    "name": "Hi8tus",
-    "artist": "Suburban Knight",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737e957fb188dbe985ce643fa1",
-    "url": "https://open.spotify.com/album/0DRac3qXYrMzPYYxbWZr42"
-  },
-  {
-    "name": "Dregs - EP",
-    "artist": "Dregs",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736635ef1f2cdb8a61047f83d2",
-    "url": "https://open.spotify.com/album/6U9iX1H4tdANdI8t9Fl8sg"
   }
 ]
