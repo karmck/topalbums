@@ -21,22 +21,35 @@
     }
 
     nav#year-links {
-      text-align: center;
-      margin-top: 30px;
-      margin-bottom: 30px;
+      display: flex;
+      /* enable flexbox */
       flex-wrap: wrap;
+      /* allow wrapping to next line */
+      justify-content: center;
+      /* center the links */
+      margin: 30px 0;
+      gap: 5px;
+      /* space between links */
     }
 
     nav#year-links a {
       margin: 5px;
+      /* optional, can remove if using gap */
       color: white;
       text-decoration: none;
       font-weight: bold;
+      padding: 4px 8px;
+      /* optional, makes links easier to tap on mobile */
+      border-radius: 4px;
+      /* optional, nicer look */
+      background-color: rgba(255, 255, 255, 0.1);
+      /* subtle background if you want */
     }
 
     nav#year-links a:hover {
       text-decoration: underline;
     }
+
 
     .grid {
       display: grid;
