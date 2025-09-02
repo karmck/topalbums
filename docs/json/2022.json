@@ -174,12 +174,6 @@
     "url": "https://open.spotify.com/album/64HtilAoMIBWkXVTAEN1ZD"
   },
   {
-    "name": "Chain Reaction EP",
-    "artist": "SND & RTN",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cd5192df996535abff515150",
-    "url": "https://open.spotify.com/album/5MoUG2uWQLp30wx64NHEYd"
-  },
-  {
     "name": "Tempus",
     "artist": "Pole",
     "cover": "https://i.scdn.co/image/ab67616d0000b2731c991cc4adc41fb00973d11c",
@@ -286,5 +280,11 @@
     "artist": "JakoJako, Rødhåd",
     "cover": "https://i.scdn.co/image/ab67616d0000b273fd416956eedcaffbc65fe9de",
     "url": "https://open.spotify.com/album/34OsXsRAimL0szKLYF4y3h"
+  },
+  {
+    "name": "Air Texture VIII Anthony Naples + DJ Python",
+    "artist": "Anthony Naples, DJ Python, Air Texture",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734c5bb8492ae9eb5bdddb3a30",
+    "url": "https://open.spotify.com/album/6Vj1Pi89N2wqNqHFhEw4cB"
   }
 ]
