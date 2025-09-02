@@ -109,13 +109,11 @@
 
 
     h2 {
-      position: sticky;
-      top: 0; /* sticks to top */
-      background: white;
-      padding: 10px;
-      margin: 0;
-      border-bottom: 2px solid #000;
-      z-index: 5; /* ensures it floats above content */
+      margin-top: 40px;
+      margin-bottom: 15px;
+      border-bottom: 1px solid #444;
+      padding-bottom: 5px;
+    }
 
     /* Scroll-to-top button */
     #scrollTopBtn {
@@ -156,7 +154,7 @@
       const container = document.getElementById("albums");
       const nav = document.getElementById("year-links");
 
-      // generate years 2006-current
+      // generate years up to specified year
       const currentYear = new Date().getFullYear();
       const years = [];
       for (let y = currentYear; y >= 2015; y--) {
