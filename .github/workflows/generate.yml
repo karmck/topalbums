@@ -58,6 +58,7 @@ jobs:
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
         run: |
           echo "Generating albums for years: ${{ steps.set-years.outputs.years }}"
           for YEAR in $(echo "${{ steps.set-years.outputs.years }}" | tr "," " "); do
