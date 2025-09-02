@@ -24,12 +24,6 @@
     "url": "https://open.spotify.com/album/5VtrkG2Vs7GE1ufQpqqUug"
   },
   {
-    "name": "The Best of Pa Omar Jack",
-    "artist": "Pa Omar Jack",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b9325af1db8b00240371aac3",
-    "url": "https://open.spotify.com/album/1E9FipWljdYwll8hLvUKxn"
-  },
-  {
     "name": "Multiverse EP",
     "artist": "Hiroshi Watanabe",
     "cover": "https://i.scdn.co/image/ab67616d0000b27337b5e74d2b77def757dc49a5",
@@ -80,8 +74,8 @@
   {
     "name": "Ultra",
     "artist": "Zomby",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736db14201399a32d57608daca",
-    "url": "https://open.spotify.com/album/3bvb9dFBcBP4XY9MiY71Eq"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dda7365c81307e3c8d75d4a5",
+    "url": "https://open.spotify.com/album/4laQ8x24EUKyWhn2e0B8wI"
   },
   {
     "name": "Orphée",
@@ -110,8 +104,8 @@
   {
     "name": "Caramel",
     "artist": "Konx-Om-Pax",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27325a3bdf2a85cdeb9b22da17e",
-    "url": "https://open.spotify.com/album/2AVWC31yea7swYeaTTxNut"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f6f8d4c11514de321bc104ad",
+    "url": "https://open.spotify.com/album/4Z3YrcUUc145ge1Uyvd4zc"
   },
   {
     "name": "The Composite Moods Collection, Vol. 1: House Number 44",
@@ -140,8 +134,8 @@
   {
     "name": "Slow Knife",
     "artist": "Kuedo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273fffdcd4892a2f60416fcae62",
-    "url": "https://open.spotify.com/album/44zPkqjFMaGwzzUD5BiTSf"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e5541e7f79fbb1422771270b",
+    "url": "https://open.spotify.com/album/0LMMVYUblDgw1hTDnoRSBo"
   },
   {
     "name": "HOPELESSNESS",
@@ -164,8 +158,8 @@
   {
     "name": "Hollowed",
     "artist": "Ital Tek",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736356c2e86d2dff3c4de28435",
-    "url": "https://open.spotify.com/album/2EhStNWtiR3wb24BAonQNR"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731a85363f5a0f0853a443a35a",
+    "url": "https://open.spotify.com/album/4POgk2Vx5zgeqIMrtZrm7j"
   },
   {
     "name": "Stars and Dust",
@@ -214,5 +208,11 @@
     "artist": "Dino Sabatini",
     "cover": "https://i.scdn.co/image/ab67616d0000b273926334706e0cf8d8d2ff60d5",
     "url": "https://open.spotify.com/album/4lPs55SByMSBKcySNTMJaD"
+  },
+  {
+    "name": "Black September",
+    "artist": "Vercetti Technicolor",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735521c03a7e1e925c6a97ef7d",
+    "url": "https://open.spotify.com/album/0LnReLlCGeKib4FhTJeck4"
   }
 ]
