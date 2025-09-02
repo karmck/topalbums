@@ -19,20 +19,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo with full history (needed for git diff)
+      # Checkout the repo with full history (needed for git diff)
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      # 2️⃣ Setup Node.js
+      # Setup Node.js
       - uses: actions/setup-node@v3
         with:
           node-version: 20
 
-      # 3️⃣ Install dependencies
+      # Install dependencies
       - run: npm ci
 
-      # 4️⃣ Determine years to build
+      # Determine years to build
       - name: Set YEARS variable
         id: set-years
         run: |
@@ -47,7 +47,13 @@ jobs:
             echo "years=$YEARS" >> $GITHUB_OUTPUT
           fi
 
-      # 5️⃣ Run your script for each year
+      # Generate the service-account file from the repo secret
+      - name: Setup Google Service Account
+        run: |
+          echo "${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}" > topalbums-service-account.json
+
+
+      # Run your script for each year
       - name: Generate JSON and index
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
@@ -58,7 +64,7 @@ jobs:
             node fetch-covers.js "$YEAR"
           done
 
-      # 6️⃣ Commit changes
+      # Commit changes
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
@@ -66,7 +72,7 @@ jobs:
           git add .
           git commit -m "Update and publish for years ${{ steps.set-years.outputs.years }}" || echo "No changes to commit"
 
-      # 7️⃣ Push changes back to master
+      # Push changes back to master
       - name: Push changes
         run: |
           git push origin master
