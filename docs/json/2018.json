@@ -210,10 +210,10 @@
     "url": "https://open.spotify.com/album/1mv6x2KpTcrIbi1h1MD1Ep"
   },
   {
-    "name": "Nasadiya Sukta",
+    "name": "Interpretations Vol I - Nasadiya Sukta",
     "artist": "Certain Creatures",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2737f80adb9b3e381bc79f2b9b7",
-    "url": "https://open.spotify.com/album/5wGUhMgCiQnfk2hllMtQzU"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273325e63549546313f2bda853f",
+    "url": "https://open.spotify.com/album/5Wy9YHFgLqQHE7OFXK7ztx"
   },
   {
     "name": "Madvillain, Vol. 1",
@@ -316,5 +316,11 @@
     "artist": "Ligovskoï",
     "cover": "https://i.scdn.co/image/ab67616d0000b273455ba18b0110bfdacd791591",
     "url": "https://open.spotify.com/album/3Tkem5fQ7pm69ti6e3c7Qk"
+  },
+  {
+    "name": "Minutes of Sleep",
+    "artist": "Francis Harris",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735bc105f067a0f0452752dff4",
+    "url": "https://open.spotify.com/album/02pLNJhzCMYc7mZaOkWrIt"
   }
 ]
