@@ -42,6 +42,12 @@
     "url": "https://open.spotify.com/album/29V0uSJIxqO9200AXj0lIO"
   },
   {
+    "name": "The Knick (Original Series Soundtrack)",
+    "artist": "Cliff Martinez",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ece78b1d2e0666c8057a4a3e",
+    "url": "https://open.spotify.com/album/4tnwCGNJUWVkUzFeAoLeGw"
+  },
+  {
     "name": "Until Silence",
     "artist": "Roll the Dice",
     "cover": "https://i.scdn.co/image/ab67616d0000b273856193b6654d99a82670ef87",
@@ -62,8 +68,8 @@
   {
     "name": "Endgame",
     "artist": "Ital",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731d7bf17410f974c401a0e849",
-    "url": "https://open.spotify.com/album/3fepqIpfYdZNiUIYzmoFK4"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e9d027e33d626feaa3a83ca1",
+    "url": "https://open.spotify.com/album/3CPjLbyOQlkGyC79UySauM"
   },
   {
     "name": "Koch",
@@ -138,10 +144,10 @@
     "url": "https://open.spotify.com/album/4jitIHLQK0NOQHWunyIy6Z"
   },
   {
-    "name": "Ascenseur pour l'echafaud",
-    "artist": "Miles Davis",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bcad3b156d59c7bf9d0702b2",
-    "url": "https://open.spotify.com/album/5BcPZGYYch0uDOV5UkbWvs"
+    "name": "Apocalypse - La 1ère Guerre Mondiale",
+    "artist": "Christian Clermont",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2734eef3e0e1370cc28962b285d",
+    "url": "https://open.spotify.com/album/1ZWohsXEMsmouFCIAzQduM"
   },
   {
     "name": "Casino",
@@ -164,8 +170,8 @@
   {
     "name": "Rediffusion",
     "artist": "µ-Ziq",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732ce067e1279bf304eab4f80c",
-    "url": "https://open.spotify.com/album/5MTNRI0AmUxZWjn3taAqPL"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bf3526680563ffe46d6e2f70",
+    "url": "https://open.spotify.com/album/5dN42x2nUId19PBRENJlwc"
   },
   {
     "name": "Human Capabilities",
@@ -176,13 +182,19 @@
   {
     "name": "Xen",
     "artist": "Arca",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273df4c5331b04c83c5446a32e9",
-    "url": "https://open.spotify.com/album/0jBNrkszYqqnNVEyHWj3ih"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b264ce08567e7e2aaf261f1f",
+    "url": "https://open.spotify.com/album/3YFXY89VYYOuLWd6PqLhFe"
   },
   {
     "name": "Collecting the Moments",
     "artist": "nikosf.",
     "cover": "https://i.scdn.co/image/ab67616d0000b27386ff1a68848826a8015f6c1b",
     "url": "https://open.spotify.com/album/3PkajXCYQ7SD5dYVdJPvWe"
+  },
+  {
+    "name": "4",
+    "artist": "Boozoo Bajou",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273cb3c81c53926c4e467e89a77",
+    "url": "https://open.spotify.com/album/3oxb3WC6kNOGQXFaPoPjLI"
   }
 ]
