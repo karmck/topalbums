@@ -108,6 +108,12 @@
     "url": "https://open.spotify.com/album/6awdgJfGIIEe8iah8X5osK"
   },
   {
+    "name": "As Iron Sharpens Iron, One Verse Sharpens Another",
+    "artist": "Ricardo Donoso",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273715794ea299e45549ac9059b",
+    "url": "https://open.spotify.com/album/1Ly6mwWffgBTRK0yqToxpd"
+  },
+  {
     "name": "Butterfly Effect",
     "artist": "Shinichi Atobe",
     "cover": "https://i.scdn.co/image/ab67616d0000b27399a078d4e6223406d7a9c1b7",
@@ -202,5 +208,17 @@
     "artist": "Boozoo Bajou",
     "cover": "https://i.scdn.co/image/ab67616d0000b273cb3c81c53926c4e467e89a77",
     "url": "https://open.spotify.com/album/3oxb3WC6kNOGQXFaPoPjLI"
+  },
+  {
+    "name": "Restless Idylls",
+    "artist": "Tropic of Cancer",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ebb7f20e97acee4ea1792873",
+    "url": "https://open.spotify.com/album/7L1AMScHIf0PvWtBQx28Kx"
+  },
+  {
+    "name": "Dream of the Walled City",
+    "artist": "KWC 92",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730ba1f2451355bf5ac4fe3beb",
+    "url": "https://open.spotify.com/album/0bfdOrdUnZYmZD5K8ECXBk"
   }
 ]
