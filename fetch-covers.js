@@ -120,6 +120,16 @@ async function generateYearJson(year) {
 
   fs.writeFileSync(path.join(JSON_FOLDER, `${year}.json`), JSON.stringify(albums, null, 2));
   console.log(`\n✨ Generated json/${year}.json with ${albums.length} albums`);
+
+  // Update lastupdated.txt
+  const now = new Date();
+  const formatted = now
+    .toLocaleString("en-GB", { hour12: false }) // dd/mm/yyyy, HH:MM:SS
+    .replace(",", ""); // remove the comma from locale string
+
+  fs.writeFileSync(path.join(process.cwd(), "docs/lastupdated.txt"), formatted);
+  console.log(`📝 Updated lastupdated.txt -> ${formatted}`);
+
 }
 
 // Run: node fetch-covers.js 2025

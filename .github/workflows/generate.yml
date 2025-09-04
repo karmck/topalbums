@@ -54,7 +54,7 @@ jobs:
 
 
       # Run your script for each year
-      - name: Generate JSON and index
+      - name: Generate JSON and index page
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
@@ -65,9 +65,9 @@ jobs:
             node fetch-covers.js "$YEAR"
           done
 
-      - name: Write last updated file
-        run: |
-          date +"%d/%m/%Y, %H:%M:%S" > docs/lastupdated.txt
+      # - name: Write last updated file
+      #   run: |
+      #     date +"%d/%m/%Y, %H:%M:%S" > docs/lastupdated.txt
 
       # Commit changes
       - name: Commit changes

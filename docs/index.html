@@ -308,9 +308,23 @@
     });
 
     //Read lastUpdated from txt file and set it in h6:
-    fetch('https://karmck.github.io/topalbums/lastupdated.txt')
+
+    // Detect if running on GitHub Pages (any *.github.io)
+    const isGithubPages = location.hostname.endsWith("github.io");
+
+    // Choose correct path
+    const lastUpdatedPath = isGithubPages
+      ? `${location.origin}/topalbums/lastupdated.txt` // hosted
+      : "lastupdated.txt"; // local file in /topalbums/docs/
+
+    fetch(lastUpdatedPath)
       .then(response => response.text())
-      .then(text => document.getElementById("lastUpdated").innerHTML = "Last updated: " + text)
+      .then(text => {
+        document.getElementById("lastUpdated").innerHTML = "Last updated: " + text;
+      })
+      .catch(err => console.log("Could not load lastupdated.txt:", err));
+
+
 
   </script>
 
