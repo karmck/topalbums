@@ -243,10 +243,10 @@
     const container = document.getElementById("albums");
     const nav = document.getElementById("year-links");
 
-    // generate years 2006-current
+    // generate years back to specified date
     const currentYear = new Date().getFullYear();
     const years = [];
-    for (let y = currentYear; y >= 2015; y--) {
+    for (let y = currentYear; y >= 2013; y--) {
       years.push(y.toString());
     }
 
