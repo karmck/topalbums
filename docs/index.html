@@ -15,7 +15,8 @@
     }
 
     h1,
-    h5 {
+    h5,
+    h6 {
       text-align: center;
       margin-bottom: 0px;
     }
@@ -228,6 +229,8 @@
 
   <h1>Music Picks</h1>
   <h5>Top albums selected each year, with links to Spotify</h5>
+  <h6 id="lastUpdated"></h6>
+
 
   <div class="year-nav">
     <button class="nav-arrow left">&#10094;</button>
@@ -303,6 +306,12 @@
     document.querySelector(".nav-arrow.right").addEventListener("click", () => {
       yearLinks.scrollBy({ left: 150, behavior: "smooth" });
     });
+
+    //Read lastUpdated from txt file and set it in h6:
+    fetch('https://karmck.github.io/topalbums/lastupdated.txt')
+      .then(response => response.text())
+      .then(text => document.getElementById("lastUpdated").innerHTML = "Last updated: " + text)
+
   </script>
 
 </body>
