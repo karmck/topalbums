@@ -126,6 +126,12 @@
     "url": "https://open.spotify.com/album/2vtIsuLSgk13IecmR5kKI4"
   },
   {
+    "name": "Motormouth Variations",
+    "artist": "Rrose, Bob Ostertag",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736380b73bd91cfb978f129538",
+    "url": "https://open.spotify.com/album/4wcKhW9pC9n1RAgLYfG4rj"
+  },
+  {
     "name": "Vantaa",
     "artist": "Vladislav Delay",
     "cover": "https://i.scdn.co/image/ab67616d0000b2733cc697866c07959d73763df0",
@@ -148,5 +154,11 @@
     "artist": "Mark Van Hoen",
     "cover": "https://i.scdn.co/image/ab67616d0000b27340739289fa3db4d2db229621",
     "url": "https://open.spotify.com/album/0aOxZV1EH0OdHAsKl4HN9w"
+  },
+  {
+    "name": "Tryptych",
+    "artist": "Demdike Stare",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273094c18a966488069d8507fab",
+    "url": "https://open.spotify.com/album/1iL6zxBV3lAxiC2ZdpOY5d"
   }
 ]

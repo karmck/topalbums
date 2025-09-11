@@ -1,5 +1,11 @@
 [
   {
+    "name": "Gute Luft",
+    "artist": "Thomas Fehlmann",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732f991a40acd2b473f38eb98d",
+    "url": "https://open.spotify.com/album/0RfsUpca8okBJ1eFBEh9Qx"
+  },
+  {
     "name": "Endless Falls",
     "artist": "Loscil",
     "cover": "https://i.scdn.co/image/ab67616d0000b27363e43525afb50072240c44f0",
@@ -10,6 +16,12 @@
     "artist": "Autechre",
     "cover": "https://i.scdn.co/image/ab67616d0000b273d894a1bca4e03dccb9a57bbb",
     "url": "https://open.spotify.com/album/3xFZIOgTNuu2paDihltjE4"
+  },
+  {
+    "name": "Crooks & Lovers",
+    "artist": "Mount Kimbie",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c5966e06089feda5603730c1",
+    "url": "https://open.spotify.com/album/22shOa6UBod9o1HHe0JPmr"
   },
   {
     "name": "Cosmogramma",
