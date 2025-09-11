@@ -78,12 +78,6 @@
     "url": "https://open.spotify.com/album/14yMkt1uh0AcO2FBqJ2UmA"
   },
   {
-    "name": "Wax Poetic For This Our Great Resolve",
-    "artist": "Deadbeat",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ab7c0935d75cbe3a30fc5bc5",
-    "url": "https://open.spotify.com/album/6dAXADCfm3FQM98LEkGFR4"
-  },
-  {
     "name": "Ways of Seeing",
     "artist": "The Advisory Circle",
     "cover": "https://i.scdn.co/image/ab67616d0000b273824d89113e35d24b657ad60a",
@@ -322,5 +316,11 @@
     "artist": "Francis Harris",
     "cover": "https://i.scdn.co/image/ab67616d0000b2735bc105f067a0f0452752dff4",
     "url": "https://open.spotify.com/album/02pLNJhzCMYc7mZaOkWrIt"
+  },
+  {
+    "name": "Shaman's Paths",
+    "artist": "Dino Sabatini",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273997f61c4a7d8653b026449e8",
+    "url": "https://open.spotify.com/album/06swVWIz2mNEIKFnn3bydk"
   }
 ]

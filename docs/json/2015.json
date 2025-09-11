@@ -62,8 +62,8 @@
   {
     "name": "Walls and Dimensions",
     "artist": "Deadbeat",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27330364161e8be50a3c908cfe1",
-    "url": "https://open.spotify.com/album/2cMZblxePa5sFrlfJjnmeT"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2732ea2dc8f233a79daeadc42ca",
+    "url": "https://open.spotify.com/album/7mFP02oIYzuV0httZHwhWk"
   },
   {
     "name": "Cory Arcane",
@@ -154,5 +154,11 @@
     "artist": "X.Y.R.",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730bc351e80a26981d143c2548",
     "url": "https://open.spotify.com/album/2C1txtCaW1KXZiyXQZPBeU"
+  },
+  {
+    "name": "In Collection",
+    "artist": "Discoverer",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27343f3524f089c0d56bea4f4a6",
+    "url": "https://open.spotify.com/album/37PgRqp3d7nSyVid6a2qP6"
   }
 ]
