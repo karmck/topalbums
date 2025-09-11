@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Hello Everything",
+    "artist": "Squarepusher",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2737318e9549ed39884ae5cbc0a",
+    "url": "https://open.spotify.com/album/35YDmDHLbqqpdMhetmdzbz"
+  },
+  {
+    "name": "Eingya",
+    "artist": "Helios",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a97e62e57bf83300a10f6f72",
+    "url": "https://open.spotify.com/album/3lCsZNTCqQ3ijzytAbst4H"
+  },
+  {
+    "name": "Oneiric",
+    "artist": "Boxcutter",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27324d332442d2714d657cbe943",
+    "url": "https://open.spotify.com/album/2J2Cc2bYlhqY51EQGVTgbT"
+  },
+  {
+    "name": "Greedy Baby",
+    "artist": "Plaid",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27325f9e446b83c2156190254a5",
+    "url": "https://open.spotify.com/album/5GhuEhtcdF4my2ELUBiwe0"
+  },
+  {
+    "name": "Body Riddle",
+    "artist": "Clark",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e87cc9ce48b83522a23ac0ba",
+    "url": "https://open.spotify.com/album/3ofEXRsMidOzWed9dZsqfg"
+  },
+  {
+    "name": "Dropsonde",
+    "artist": "Biosphere",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273636913848db0ad42e60f51b9",
+    "url": "https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580"
+  },
+  {
+    "name": "The Headlight Serenade",
+    "artist": "Triosk",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273683033c54df2a9cc26758650",
+    "url": "https://open.spotify.com/album/7iVknj3tPdOZnDvreIPMG5"
+  },
+  {
+    "name": "Zidane, a 21st Century Portrait, an Original Soundtrack by Mogwai",
+    "artist": "Mogwai",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27310ec2a73898a151a8bcea857",
+    "url": "https://open.spotify.com/album/7xqX6HwJytMhIzkmaV5Rqr"
+  },
+  {
+    "name": "Autumn Continent",
+    "artist": "Between Interval",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736cf4a0350f1a07cfcc2c9d44",
+    "url": "https://open.spotify.com/album/3DRIgApRQOuW3Q21h3ARSU"
+  },
+  {
+    "name": "Teachings From The Electronic Brain",
+    "artist": "The Future Sound Of London",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731f106a82a81754135163dd6a",
+    "url": "https://open.spotify.com/album/0XAKcHbt7ANGBsV5z7ORoo"
+  }
+]
