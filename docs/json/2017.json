@@ -92,7 +92,7 @@
   {
     "name": "Chalice Hymnal",
     "artist": "Grails",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736be444671cabf9fbcc138f9d",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273abbd0bef2cf40ab0b0e0760f",
     "url": "https://open.spotify.com/album/72f4863CvwpDpuIFakTIMz"
   },
   {
@@ -148,5 +148,11 @@
     "artist": "Phil France",
     "cover": "https://i.scdn.co/image/ab67616d0000b273c971c90f72bcb18456f7f481",
     "url": "https://open.spotify.com/album/4pTmusoi7JcIyJFTFdTPek"
+  },
+  {
+    "name": "Late Night Tales: Badbadnotgood",
+    "artist": "BADBADNOTGOOD",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27349a68a1743c7dbfd2669a06f",
+    "url": "https://open.spotify.com/album/1J3enVyckc2vOR0xOK1jZX"
   }
 ]

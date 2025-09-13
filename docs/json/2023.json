@@ -176,8 +176,8 @@
   {
     "name": "Switched-On",
     "artist": "Pachyman",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d394954a932c7618fac39c49",
-    "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730761478d026e786fe82ed563",
+    "url": "https://open.spotify.com/album/1liJocn5s0yO5iTRGHL8Xo"
   },
   {
     "name": "Inland Delta",
@@ -220,5 +220,17 @@
     "artist": "VC-118A",
     "cover": "https://i.scdn.co/image/ab67616d0000b273ecf6ca1343df677aa589828a",
     "url": "https://open.spotify.com/album/0BbRkHcvLWUn9llieX3Ket"
+  },
+  {
+    "name": "Voices from the Lake (2023 Edition)",
+    "artist": "Voices from The Lake",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730febd9d715e869ac15926684",
+    "url": "https://open.spotify.com/album/0UGa7ReS7TOWxO7ufHqABw"
+  },
+  {
+    "name": "The Red Hunter (Remixes)",
+    "artist": "Steffi",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735c1007902bfaf0feabeab179",
+    "url": "https://open.spotify.com/album/28fQVioEcoutFB0aQqWf43"
   }
 ]
