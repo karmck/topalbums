@@ -60,12 +60,6 @@
     "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
   },
   {
-    "name": "Under Tangled Silence",
-    "artist": "DjRUM",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273840c0ea96ec7723a6f8ba692",
-    "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
-  },
-  {
     "name": "Scanners",
     "artist": "Anthony Naples",
     "cover": "https://i.scdn.co/image/ab67616d0000b273463aaf92952b2598ee8af693",
@@ -82,12 +76,6 @@
     "artist": "Deepchord",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e3e0559e22207b48141a5096",
     "url": "https://open.spotify.com/album/6Uinbm0g4tC2sgPCciy8lN"
-  },
-  {
-    "name": "The Interstellar Music of Martin Glass",
-    "artist": "Martin Glass",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ebc0beb6b66dc54238fbc8d6",
-    "url": "https://open.spotify.com/album/6cYSvEQuYgzKqcPtdeZuhL"
   },
   {
     "name": "Dark Sky",
@@ -202,5 +190,23 @@
     "artist": "Khotin",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730ceda74d7a1cf8461d2a445c",
     "url": "https://open.spotify.com/album/7BkLbQlDyrnrZcvdgM5DvQ"
+  },
+  {
+    "name": "Under Tangled Silence",
+    "artist": "DjRUM",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273840c0ea96ec7723a6f8ba692",
+    "url": "https://open.spotify.com/album/1bMzS9D1chZ57onK5mU8ea"
+  },
+  {
+    "name": "On Being",
+    "artist": "Max Cooper",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27373805db86a3b66b36d689635",
+    "url": "https://open.spotify.com/album/3Ue4fvhNQLBXsQIhnIy57B"
+  },
+  {
+    "name": "w/ The Producers",
+    "artist": "Paul St. Hilaire",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27394fbee313202023fc9580f3c",
+    "url": "https://open.spotify.com/album/0h2gv1PpURjTh5szxIC0wZ"
   }
 ]
