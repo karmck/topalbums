@@ -114,12 +114,6 @@
     "url": "https://open.spotify.com/album/7btj7dgLxiMkGLZS3CzG85"
   },
   {
-    "name": "13",
-    "artist": "Bvdub",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739fd3547b2a93cecb17bb2c3d",
-    "url": "https://open.spotify.com/album/3QLpulX8zEzLvkLRR3PexN"
-  },
-  {
     "name": "Peacemaker",
     "artist": "Brendon Moeller",
     "cover": "https://i.scdn.co/image/ab67616d0000b273b52d44bf7afcf8d8956e3fe3",
@@ -190,5 +184,11 @@
     "artist": "Paul St. Hilaire",
     "cover": "https://i.scdn.co/image/ab67616d0000b27394fbee313202023fc9580f3c",
     "url": "https://open.spotify.com/album/0h2gv1PpURjTh5szxIC0wZ"
+  },
+  {
+    "name": "1979",
+    "artist": "µ-Ziq",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273e01dae4ef66b82f29d15267c",
+    "url": "https://open.spotify.com/album/1pwOGVXwNOKCb6fIeTWcxp"
   }
 ]
