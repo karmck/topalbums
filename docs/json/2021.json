@@ -8,7 +8,7 @@
   {
     "name": "Information (Redacted)",
     "artist": "Galcher Lustwerk",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27344f571e81ed04ae5e80e0fed",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f5316ef3c3c28193203e404e",
     "url": "https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W"
   },
   {
@@ -134,7 +134,7 @@
   {
     "name": "Rhinestones",
     "artist": "HTRK",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736c3f25611528a838ca8b1cec",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27350462ce52020aa76e080997b",
     "url": "https://open.spotify.com/album/6fR8HdEvPUxLqwT3TNicPL"
   },
   {
@@ -220,5 +220,11 @@
     "artist": "Coldcut, Mixmaster Morris",
     "cover": "https://i.scdn.co/image/ab67616d0000b273235e1c663ad9302d9cf150a9",
     "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
+  },
+  {
+    "name": "Meteora",
+    "artist": "SSIEGE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a432158f80c0af3c2e0abfb3",
+    "url": "https://open.spotify.com/album/7hZXWxFbOEjKDBJPsModzR"
   }
 ]

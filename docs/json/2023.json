@@ -92,13 +92,13 @@
   {
     "name": "Serendipia",
     "artist": "John Beltran",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27376a19ba17097dd7e6f3c3b04",
-    "url": "https://open.spotify.com/album/0A47LlbIGtx0ahBCmz0kZ5"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d09f77d346378da836755927",
+    "url": "https://open.spotify.com/album/7HSZx60VuvyzK8b52Ium92"
   },
   {
     "name": "LUSTWERK II",
     "artist": "Galcher Lustwerk",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d5109a52d825831865d1d01c",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273bb9d3df9b08a2f2d1bd03f8c",
     "url": "https://open.spotify.com/album/0jjqGgmCchtgTAoRWPFRRG"
   },
   {
@@ -126,10 +126,10 @@
     "url": "https://open.spotify.com/album/074BDQSfufLOuL8qWsRsyg"
   },
   {
-    "name": "Blackbox Life Recorder 21f / in a room7 F760",
+    "name": "Blackbox Life Recorder 21f",
     "artist": "Aphex Twin",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cac3de4f526a0f3339de0664",
-    "url": "https://open.spotify.com/album/0yp0GVa92trHmWZuEZTuL2"
+    "cover": "https://i.scdn.co/image/ab67616d0000b27394c42daba6c5aeca030b7485",
+    "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
   },
   {
     "name": "Journey Test",
@@ -146,8 +146,8 @@
   {
     "name": "Alien",
     "artist": "Ebende",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273bdf9e936b47297dba16689f1",
-    "url": "https://open.spotify.com/album/2y2zHTIka5Wt8XZThWB80Z"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733d72d2c2f47ba7ca6a7edc07",
+    "url": "https://open.spotify.com/album/4se4eXwT8tz8FIVz2X1Vmi"
   },
   {
     "name": "By Your Side",
@@ -232,5 +232,11 @@
     "artist": "Steffi",
     "cover": "https://i.scdn.co/image/ab67616d0000b2735c1007902bfaf0feabeab179",
     "url": "https://open.spotify.com/album/28fQVioEcoutFB0aQqWf43"
+  },
+  {
+    "name": "Beautiful Age",
+    "artist": "SSIEGE",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a6cd3add93375f8a84e7d7b1",
+    "url": "https://open.spotify.com/album/1dp33SiXKxcTs2MYOBRHHy"
   }
 ]

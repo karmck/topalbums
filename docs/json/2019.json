@@ -50,8 +50,8 @@
   {
     "name": "ANIMA",
     "artist": "Thom Yorke",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731be1f48af453839ffba248a6",
-    "url": "https://open.spotify.com/album/1sKj6LEXiEfCmsiKwPy5uG"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a57f6657568d026ccf56953c",
+    "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
   },
   {
     "name": "Fade to Grey",
@@ -206,7 +206,7 @@
   {
     "name": "Both Lines Will Be Blue",
     "artist": "Carmen Villain",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c0edcb86cc5940e90dbafb85",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a476330c69d35786a095c756",
     "url": "https://open.spotify.com/album/42FtyQ8FLo6zmbZzHSevq5"
   },
   {
@@ -230,8 +230,8 @@
   {
     "name": "VOLUME MASSIMO",
     "artist": "Alessandro Cortini",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27397caf4528d4d06b0d7a54778",
-    "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dbb88302c2ec100961e264a6",
+    "url": "https://open.spotify.com/album/6P2BzPJFGQ650iteh8acXC"
   },
   {
     "name": "Ecstatic Computation",
@@ -242,7 +242,7 @@
   {
     "name": "Sources (Early Works 1986-1992)",
     "artist": "Erik Wøllo",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273caf91520fa319f949c100421",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736b3198d35db756de3b163ac6",
     "url": "https://open.spotify.com/album/2USaQM9Uxhg6kwh3Ka9Nwd"
   },
   {
@@ -302,7 +302,7 @@
   {
     "name": "Ambitions",
     "artist": "Prins Thomas",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a34ec8bd0411370e1d2bd62",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733fbdc813a7ae00a44daa04ea",
     "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
   },
   {
@@ -314,7 +314,7 @@
   {
     "name": "Fear Inoculum",
     "artist": "TOOL",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27326e6b6f666ef40b6b8365e3e",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731cb671469ff9fa33703410c4",
     "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
   },
   {
@@ -328,5 +328,11 @@
     "artist": "Ørdop Wolkenscheidt",
     "cover": "https://i.scdn.co/image/ab67616d0000b273f4cecdb666bf1f4b72afd89d",
     "url": "https://open.spotify.com/album/2eUO65Jz5MfG9YIpp689pA"
+  },
+  {
+    "name": "Island Alchemy",
+    "artist": "Sofie Birch",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27323379c0f028410b63fe0e28c",
+    "url": "https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS"
   }
 ]

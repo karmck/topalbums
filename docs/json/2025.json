@@ -26,8 +26,8 @@
   {
     "name": "Dub Reflections",
     "artist": "Deenamic",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2738d4f9cb3b81894a3a31e3ceb",
-    "url": "https://open.spotify.com/album/1UFozNmgAPp29TopJVQudr"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733ee2f03389e0a95c6c7b8999",
+    "url": "https://open.spotify.com/album/0p6oLkojRjsKsIYTGIZyMi"
   },
   {
     "name": "The Way Of Time",
@@ -126,6 +126,12 @@
     "url": "https://open.spotify.com/album/5mc14YNWdxS83sReqvQt40"
   },
   {
+    "name": "Trinity",
+    "artist": "Lawrence English, Stephen Vitiello",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2735f2b340249a4bd07f9bd9199",
+    "url": "https://open.spotify.com/album/56KobjnhwAwijd3oCxKW0p"
+  },
+  {
     "name": "Realm Of Shadows EP",
     "artist": "SND & RTN",
     "cover": "https://i.scdn.co/image/ab67616d0000b2736aae9c1c07d462441f2d7571",
@@ -166,6 +172,12 @@
     "artist": "Cousin",
     "cover": "https://i.scdn.co/image/ab67616d0000b27389d71e8aa708df90e0b311c8",
     "url": "https://open.spotify.com/album/1hnUvLHfwr4T9WYrMD2Gmm"
+  },
+  {
+    "name": "Fly In Amber",
+    "artist": "Cousin, Priori",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27352b98eb7f6096e53954ad552",
+    "url": "https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL"
   },
   {
     "name": "Peace Portal",
@@ -214,5 +226,35 @@
     "artist": "efdemin",
     "cover": "https://i.scdn.co/image/ab67616d0000b27331a952afbb56fb7c19c6f116",
     "url": "https://open.spotify.com/album/0l7zF0wmKvo2smjzhOBzHh"
+  },
+  {
+    "name": "Unstable",
+    "artist": "Dictaphone",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273dd5c79b8e45f0035c488adc3",
+    "url": "https://open.spotify.com/album/1UDDPTSWvR4hGIMyWGYeWz"
+  },
+  {
+    "name": "Tranquilizer",
+    "artist": "Oneohtrix Point Never",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2736963e098c52733db9753031c",
+    "url": "https://open.spotify.com/album/4nOjUCw5rOroJp1JHcLZau"
+  },
+  {
+    "name": "Implosion",
+    "artist": "The Bug, Ghost Dubs",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b3426d4339dc411d03ba9d98",
+    "url": "https://open.spotify.com/album/05Vg4AcLXQh99JjvfJxJZJ"
+  },
+  {
+    "name": "II",
+    "artist": "Voices from The Lake",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27348e3a8e19a91eaff35d3b017",
+    "url": "https://open.spotify.com/album/3fW5Ir9IAsxLihvfEGhAue"
+  },
+  {
+    "name": "Airdrop III",
+    "artist": "Low End Activist",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730ea500fdeb0bd96ba9eb2f10",
+    "url": "https://open.spotify.com/album/358ITrUfOMl0qbxEU2aszs"
   }
 ]

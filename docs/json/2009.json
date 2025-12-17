@@ -12,15 +12,15 @@
     "url": "https://open.spotify.com/album/7DAMhF2zPSNgFJ2DcuMXRq"
   },
   {
-    "name": "音樂十年李聖傑, 唯一精選",
-    "artist": "Sam Lee",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2739a41a767e3e91d65d9204668",
-    "url": "https://open.spotify.com/album/3emUzCU0BQJyBsi6QWldYt"
+    "name": "As 20 Mais Só Sucesso (Essa Você Leva no Coração)",
+    "artist": "Malla 100 Alça",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f56699ef8949b3a1de9214f2",
+    "url": "https://open.spotify.com/album/5h7yl7RAjicia89cvHIVkt"
   },
   {
     "name": "Great Lengths",
     "artist": "Martyn",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27364a2fbd8b09649e0681ed8a4",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27320013e070be012671a08dd71",
     "url": "https://open.spotify.com/album/5hm335lDFl7xrmcdmVBMsm"
   },
   {
@@ -56,8 +56,8 @@
   {
     "name": "Drift",
     "artist": "Nosaj Thing",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273d0d842fd3159bd4d9ddb70c8",
-    "url": "https://open.spotify.com/album/6aIsRCbXbDGvpJTWjJlgdK"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d6e343998e96230fed67a681",
+    "url": "https://open.spotify.com/album/5HXtjGvpJx79VQdDl9mSxw"
   },
   {
     "name": "Symbiosis",
@@ -76,5 +76,11 @@
     "artist": "Biosphere",
     "cover": "https://i.scdn.co/image/ab67616d0000b273cfa94b4f072d3cca36997df9",
     "url": "https://open.spotify.com/album/4ijOlVjtIzODdJFvsBBcTu"
+  },
+  {
+    "name": "Wintermusik",
+    "artist": "Nils Frahm",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27300de1f7637ed690a289e8d8f",
+    "url": "https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK"
   }
 ]
