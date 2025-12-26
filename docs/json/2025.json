@@ -72,10 +72,10 @@
     "url": "https://open.spotify.com/album/74kLpVpzIGKg1LhKLtIPl1"
   },
   {
-    "name": "End Beginnings",
+    "name": "End Beginnings (Deluxe)",
     "artist": "Sandwell District",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273980ef6436b8e3e289d2123fe",
-    "url": "https://open.spotify.com/album/3xnfdbz1MO98XdTgAa9M8q"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b353b863a039ed9c5df8d6cc",
+    "url": "https://open.spotify.com/album/3B8ZutJyTpg3ixfEcJYmrY"
   },
   {
     "name": "Medusozoa Vol. IIII",
@@ -256,5 +256,11 @@
     "artist": "Low End Activist",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730ea500fdeb0bd96ba9eb2f10",
     "url": "https://open.spotify.com/album/358ITrUfOMl0qbxEU2aszs"
+  },
+  {
+    "name": "Ash",
+    "artist": "Loscil",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f05b983c9431efa064fe3f9e",
+    "url": "https://open.spotify.com/album/3W3fhPaClf6F9a6rrgFpVZ"
   }
 ]
