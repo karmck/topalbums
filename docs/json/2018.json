@@ -122,7 +122,7 @@
   {
     "name": "Dissolvi",
     "artist": "Steve Hauschildt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736b5f963921f79a8bb537e131",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273865199b47699be03e08feeea",
     "url": "https://open.spotify.com/album/46fXKgkZzFICUthYxcf9Ie"
   },
   {
@@ -140,7 +140,7 @@
   {
     "name": "Cocoon Crush",
     "artist": "Objekt",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273a632026c916bc26ac328d4e6",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c80ac39ddfd5acbb4f741f65",
     "url": "https://open.spotify.com/album/2vE3mTa7olXTXbHb6t2XjE"
   },
   {
@@ -322,5 +322,11 @@
     "artist": "Dino Sabatini",
     "cover": "https://i.scdn.co/image/ab67616d0000b273997f61c4a7d8653b026449e8",
     "url": "https://open.spotify.com/album/06swVWIz2mNEIKFnn3bydk"
+  },
+  {
+    "name": "(dub) excursion (s)",
+    "artist": "Another Channel",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27386ab509c5c7ebfc020523a78",
+    "url": "https://open.spotify.com/album/5W2sGAVv4eQdVw6tALo0qT"
   }
 ]

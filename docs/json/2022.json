@@ -116,8 +116,8 @@
   {
     "name": "Millennial Lowlife",
     "artist": "Acronym",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2730b5b7143f3a601310b59031b",
-    "url": "https://open.spotify.com/album/1L3RDnr5HkLi5a2YKhSBnW"
+    "cover": "https://i.scdn.co/image/ab67616d0000b2739740782de4b79b9e640d5412",
+    "url": "https://open.spotify.com/album/6TxzUMIJWKf572LMTmu643"
   },
   {
     "name": "The Algorithm Don’t Like My Freek",
@@ -254,7 +254,7 @@
   {
     "name": "Timewave Zero",
     "artist": "Blood Incantation",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2736b93d6a6480b2b3b1a422e3d",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b2964ce1fc1136b2982a7f85",
     "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
   },
   {
@@ -268,5 +268,11 @@
     "artist": "Anthony Naples, DJ Python, Air Texture",
     "cover": "https://i.scdn.co/image/ab67616d0000b2734c5bb8492ae9eb5bdddb3a30",
     "url": "https://open.spotify.com/album/6Vj1Pi89N2wqNqHFhEw4cB"
+  },
+  {
+    "name": "Behind The Glow",
+    "artist": "Another Channel",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27304b05b881207215a8f4620a5",
+    "url": "https://open.spotify.com/album/0qypMlkwCqua20D3gfxFeZ"
   }
 ]
