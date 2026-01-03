@@ -60,6 +60,12 @@
     "url": "https://open.spotify.com/album/0mix5UIlqNljJn6HXcRD5E"
   },
   {
+    "name": "Ash",
+    "artist": "Loscil",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f05b983c9431efa064fe3f9e",
+    "url": "https://open.spotify.com/album/3W3fhPaClf6F9a6rrgFpVZ"
+  },
+  {
     "name": "Vantage Isle (Remastered)",
     "artist": "Deepchord",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e3e0559e22207b48141a5096",
@@ -112,12 +118,6 @@
     "artist": "Pan-American, Michael Grigoni",
     "cover": "https://i.scdn.co/image/ab67616d0000b27363c649a00d63e9952e4d66c9",
     "url": "https://open.spotify.com/album/7btj7dgLxiMkGLZS3CzG85"
-  },
-  {
-    "name": "Peacemaker",
-    "artist": "Brendon Moeller",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b52d44bf7afcf8d8956e3fe3",
-    "url": "https://open.spotify.com/album/0wbSturTRyjoMkDKiD2f1o"
   },
   {
     "name": "Even The Horizon Knows Its Bounds",
@@ -252,15 +252,21 @@
     "url": "https://open.spotify.com/album/3fW5Ir9IAsxLihvfEGhAue"
   },
   {
+    "name": "A Warm Static Sphere",
+    "artist": "36",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2730aeb8456acc4fd01ba9b7487",
+    "url": "https://open.spotify.com/album/0bt4SyaXZEfWOstH8t24XZ"
+  },
+  {
     "name": "Airdrop III",
     "artist": "Low End Activist",
     "cover": "https://i.scdn.co/image/ab67616d0000b2730ea500fdeb0bd96ba9eb2f10",
     "url": "https://open.spotify.com/album/358ITrUfOMl0qbxEU2aszs"
   },
   {
-    "name": "Ash",
-    "artist": "Loscil",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273f05b983c9431efa064fe3f9e",
-    "url": "https://open.spotify.com/album/3W3fhPaClf6F9a6rrgFpVZ"
+    "name": "Lateral",
+    "artist": "Brian Eno, Beatie Wolfe",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27376afd4321e0ab765eff4ff28",
+    "url": "https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D"
   }
 ]
