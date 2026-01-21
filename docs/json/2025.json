@@ -78,10 +78,10 @@
     "url": "https://open.spotify.com/album/74kLpVpzIGKg1LhKLtIPl1"
   },
   {
-    "name": "End Beginnings (Deluxe)",
+    "name": "End Beginnings",
     "artist": "Sandwell District",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273b353b863a039ed9c5df8d6cc",
-    "url": "https://open.spotify.com/album/3B8ZutJyTpg3ixfEcJYmrY"
+    "cover": "https://i.scdn.co/image/ab67616d0000b273980ef6436b8e3e289d2123fe",
+    "url": "https://open.spotify.com/album/3xnfdbz1MO98XdTgAa9M8q"
   },
   {
     "name": "Medusozoa Vol. IIII",
@@ -268,5 +268,35 @@
     "artist": "Brian Eno, Beatie Wolfe",
     "cover": "https://i.scdn.co/image/ab67616d0000b27376afd4321e0ab765eff4ff28",
     "url": "https://open.spotify.com/album/1yipZJ7MzmCA56WeIfHX3D"
+  },
+  {
+    "name": "Sirāt - Original Motion Picture Soundtrack",
+    "artist": "Kangding Ray",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27338c3e67203bd092c3ca65d98",
+    "url": "https://open.spotify.com/album/674hSR0oJq5jQeVOmiVGbw"
+  },
+  {
+    "name": "of the Beginning",
+    "artist": "Anthony Child",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733a200ca33920674327cf411b",
+    "url": "https://open.spotify.com/album/6n2MTdD3MimyjExnRtsmZr"
+  },
+  {
+    "name": "Diffraction",
+    "artist": "CMD094",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273a23e91a0f449c4d7e2c60f35",
+    "url": "https://open.spotify.com/album/2LOP6JgFqDlinAwDIlWmmQ"
+  },
+  {
+    "name": "Alone Together",
+    "artist": "yanaco",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273063824eb4e21babd9746468c",
+    "url": "https://open.spotify.com/album/3fong1iWBskKEDCMIhEasq"
+  },
+  {
+    "name": "Aphelion",
+    "artist": "Another Channel",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273d7b772909936d21a8e3e6cca",
+    "url": "https://open.spotify.com/album/52QowQaCcWE1NDeYjAJvsQ"
   }
 ]
