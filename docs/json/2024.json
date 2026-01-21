@@ -74,7 +74,7 @@
   {
     "name": "Infinite Light",
     "artist": "Not Waving, Romance",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27362affba75d2f9775449c133c",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f90b97c54257729c671ad7e6",
     "url": "https://open.spotify.com/album/7b2PVXILUaPJEiGo3uFEjt"
   },
   {
@@ -116,7 +116,7 @@
   {
     "name": "Reverberations of Non-Stop Traffic on Redding Road",
     "artist": "Pan-American, Kramer",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2732043b3515073a64390d07888",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ca546e964b825974a39cae6e",
     "url": "https://open.spotify.com/album/6NrBsFaejrdAhyPWn9oU6t"
   },
   {
@@ -182,7 +182,7 @@
   {
     "name": "Plasticene",
     "artist": "Wound",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2733f178d44cf0ec84e81b56968",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2733b7848f7104d632a60b2d40f",
     "url": "https://open.spotify.com/album/5LaIOPiFEEn9xtXJpK0J8u"
   },
   {
@@ -282,15 +282,21 @@
     "url": "https://open.spotify.com/album/44CavVdPYy1ZHadcf3crBx"
   },
   {
-    "name": "LAYER ONE",
+    "name": "Layer One",
     "artist": "Ben Klock, Fadi Mohem",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273ca59f9829d3d9fba652b3ba5",
-    "url": "https://open.spotify.com/album/6BdjHHJCpf06fR727JzaQi"
+    "cover": "https://i.scdn.co/image/ab67616d0000b27329d2ede2ba772648eb643822",
+    "url": "https://open.spotify.com/album/2cVivxvSfRUGd5eBok4mJr"
   },
   {
     "name": "Intershop (Remastered 2024)",
     "artist": "Dettinger",
     "cover": "https://i.scdn.co/image/ab67616d0000b273e3af572b4f5cbadf27da4cbf",
     "url": "https://open.spotify.com/album/7iyfjPsLClJqoKwo91k357"
+  },
+  {
+    "name": "Zero",
+    "artist": "Kangding Ray",
+    "cover": "https://i.scdn.co/image/ab67616d0000b27342fc733858ed65aaf1951fce",
+    "url": "https://open.spotify.com/album/465gcY0TdcbgpO0fNiQv9r"
   }
 ]
