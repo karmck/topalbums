@@ -4,6 +4,9 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="UTF-8">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
   <title>Music Picks</title>
   <style>
     body {
@@ -246,6 +249,13 @@
     const container = document.getElementById("albums");
     const nav = document.getElementById("year-links");
 
+    // Cache-busting utility: use a single timestamp per page-load
+    const CACHE_BUST = Date.now();
+    function cacheBustUrl(url) {
+      if (!url) return url;
+      return url + (url.includes('?') ? '&' : '?') + 't=' + CACHE_BUST;
+    }
+
     // generate years back to specified date
     const currentYear = new Date().getFullYear();
     const years = [];
@@ -260,7 +270,7 @@
     async function loadAlbums() {
       for (const year of years) {
         try {
-          const res = await fetch(`json/${year}.json`);
+          const res = await fetch(cacheBustUrl(`json/${year}.json`), { cache: 'no-store' });
           const albums = await res.json();
           if (!albums.length) continue;
 
@@ -269,7 +279,7 @@
             albums.map(a => `
     <div class="album">
       <a href="${a.url}" target="_blank" rel="noopener noreferrer">
-        <img src="${a.cover}" alt="${a.artist} - ${a.name}" class="cover" loading="lazy">
+        <img src="${cacheBustUrl(a.cover)}" alt="${a.artist} - ${a.name}" class="cover" loading="lazy">
         <div class="album-info">
           <strong>${a.artist}</strong>
           <span>${a.name}</span>
@@ -317,7 +327,7 @@
       ? `${location.origin}/topalbums/lastupdated.txt` // hosted
       : "lastupdated.txt"; // local file in /topalbums/docs/
 
-    fetch(lastUpdatedPath)
+    fetch(cacheBustUrl(lastUpdatedPath), { cache: 'no-store' })
       .then(response => response.text())
       .then(text => {
         document.getElementById("lastUpdated").innerHTML = "Last updated: " + text;

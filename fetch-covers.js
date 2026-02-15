@@ -25,6 +25,13 @@ const SHEET_ID = process.env.GOOGLE_SHEET_ID;
 const JSON_FOLDER = path.join("docs", "json");
 if (!fs.existsSync(JSON_FOLDER)) fs.mkdirSync(JSON_FOLDER);
 
+// Cache-bust token used when writing out cover URLs (one value per run)
+const CACHE_BUST = Date.now();
+function cacheBustUrl(url) {
+  if (!url) return url;
+  return url + (url.includes("?") ? "&" : "?") + "v=" + CACHE_BUST;
+}
+
 // ---------------- Local text list (optional) ----------------
 function getLocalAlbums(year) {
   try {
@@ -85,7 +92,7 @@ async function searchAlbum(token, query, year) {
   return {
     name: preferred.name,
     artist: preferred.artists.map((a) => a.name).join(", "),
-    cover: preferred.images?.[0]?.url || "",
+    cover: cacheBustUrl(preferred.images?.[0]?.url || ""),
     url: preferred.external_urls.spotify,
   };
 }
