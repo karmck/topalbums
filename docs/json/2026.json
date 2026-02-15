@@ -2,13 +2,19 @@
   {
     "name": "DOT 4",
     "artist": "Dialog",
-    "cover": "https://i.scdn.co/image/ab67616d0000b2731bb570148025491d440c23eb",
+    "cover": "https://i.scdn.co/image/ab67616d0000b2731bb570148025491d440c23eb?v=1771170653887",
     "url": "https://open.spotify.com/album/1BsDXBXG8MjhQkK2RZWD5i"
   },
   {
     "name": "Oranj",
     "artist": "Robohands",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273556e6e632aed2c6045722cc7",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273556e6e632aed2c6045722cc7?v=1771170653887",
     "url": "https://open.spotify.com/album/3P8wIkYXVvn7SU0PtODi8k"
+  },
+  {
+    "name": "Why I Went To The Woods",
+    "artist": "400 Lonely Things",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273f27abab708f711fbff77421b?v=1771170653887",
+    "url": "https://open.spotify.com/album/3Zs5HyQKqXD9K1adZwNzb0"
   }
 ]
