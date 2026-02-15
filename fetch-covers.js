@@ -25,6 +25,26 @@ const SHEET_ID = process.env.GOOGLE_SHEET_ID;
 const JSON_FOLDER = path.join("docs", "json");
 if (!fs.existsSync(JSON_FOLDER)) fs.mkdirSync(JSON_FOLDER);
 
+// ---------------- Local text list (optional) ----------------
+function getLocalAlbums(year) {
+  try {
+    const filePath = path.join(process.cwd(), "albums", `${year}.txt`);
+    if (!fs.existsSync(filePath)) return [];
+    const raw = fs.readFileSync(filePath, "utf8");
+    const lines = raw
+      .split(/\r?\n/)
+      .map((s) => s.trim())
+      .filter(Boolean);
+    if (lines.length) {
+      console.log(`📄 Using local list: albums/${year}.txt (${lines.length} entries)`);
+    }
+    return lines;
+  } catch (err) {
+    console.error(`Failed to read local list for year ${year}:`, err);
+    return [];
+  }
+}
+
 // ---------------- Spotify Auth ----------------
 async function getAccessToken() {
   const res = await fetch("https://accounts.spotify.com/api/token", {
@@ -94,7 +114,9 @@ async function getSheetAlbums(year) {
 
 // ---------------- Main ----------------
 async function generateYearJson(year) {
-  const albumsList = await getSheetAlbums(year);
+  // Prefer local text list if present; otherwise fall back to Google Sheets
+  const localList = getLocalAlbums(year);
+  const albumsList = localList.length ? localList : await getSheetAlbums(year);
   if (!albumsList.length) {
     console.log(`No data found for year ${year}`);
     return;
